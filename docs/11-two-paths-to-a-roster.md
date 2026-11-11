@@ -6,7 +6,7 @@ The master loads the gun, or the master names the target.
 
 ---
 
-Every orchestra agent needs a roster before it can route anything. There are
+Every multi-agent orchestrator needs a roster before it can route anything. There are
 exactly two honest ways to get one, and the difference between them is not
 convenience — it is **who holds authority over the agent's scope.**
 

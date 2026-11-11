@@ -6,11 +6,11 @@ from gen_assets import Canvas, rasterise, PAL
 
 ok = []
 
-# ─────────────────────────────────────────────── 1. THE ORCHESTRA AGENT
-c = Canvas(1300, 1020, "Orchestra agent architecture",
+# ─────────────────────────────────────────────── 1. THE MULTI-AGENT ORCHESTRATOR
+c = Canvas(1300, 1020, "Multi-agent orchestrator architecture",
     "A permanent Layer 0 hand operating 24 swappable Layer 1 chambers, with Line Zero "
     "above both and the gate, journal and clock beneath.")
-c.heading("THE ORCHESTRA AGENT", "One hand. Twenty-four chambers. One loaded at a time.")
+c.heading("THE MULTI-AGENT ORCHESTRATOR", "One hand. Twenty-four chambers. One loaded at a time.")
 c.card(480, 150, 340, 62, "card2")
 c.text(650, 177, "THE MASTER", 17, "text", 700, "middle", 2.0)
 c.text(650, 199, "names the target, grants the scope", 13, "muted", 400, "middle")

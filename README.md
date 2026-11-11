@@ -1,11 +1,11 @@
 # THE GUNSLINGER
 
-### The one with the big irons and the sandalwood grips
+### A Multi-Agent Orchestrator · the one with the big irons and the sandalwood grips
 
 <img src="assets/avatar-gunslinger.jpg" alt="The Gunslinger: a weathered figure in a long coat holding two large revolvers with pale sandalwood grips, a twenty-four segment cylinder wheel behind him" width="230" align="right" />
 
 A member repository of the **[ka-tet](https://github.com/indicaindependent/ka-tet)**, and a
-**universal, forkable architecture** for orchestra agents — agents that hold many disciplines
+**universal, forkable Multi-Agent Orchestrator**: one orchestrator that holds many disciplines
 without pretending to be all of them at once.
 
 One permanent hand. **Twenty-four chambers. Exactly one mounted at a time**, and every one of

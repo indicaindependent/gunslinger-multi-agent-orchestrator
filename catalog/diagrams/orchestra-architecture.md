@@ -1,4 +1,4 @@
-# ORCHESTRA ARCHITECTURE
+# MULTI-AGENT ORCHESTRATOR ARCHITECTURE
 
 **The whole system on one canvas**
 
