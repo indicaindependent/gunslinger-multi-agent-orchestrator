@@ -4,19 +4,20 @@
 
 <img src="assets/avatar-gunslinger.jpg" alt="The Gunslinger: a weathered figure in a long coat holding two large revolvers with pale sandalwood grips, a twenty-four segment cylinder wheel behind him" width="230" align="right" />
 
-A member repository of the **[ka-tet](https://github.com/indicaindependent/ka-tet)**, and a
-**universal, forkable Multi-Agent Orchestrator**: one orchestrator that holds many disciplines
-without pretending to be all of them at once.
+A member repository of the **[ka-tet](https://github.com/indicaindependent/ka-tet)**, and the open
+**reference architecture for a Multi-Agent Orchestrator**: one orchestrator that routes work across
+many specialist disciplines without pretending to be all of them at once. It includes a build
+template that renders a one-paste build instruction for an agent of your own.
 
-One permanent hand. **Twenty-four chambers. Exactly one mounted at a time**, and every one of
-them refuses to fire once its knowledge has gone stale.
+One permanent hand, the orchestration layer. **Twenty-four specialist chambers. Exactly one mounted
+at a time**, and each one refuses to fire once its brief has gone stale.
 
 **Start here:** [How it works](docs/11-two-paths-to-a-roster.md) ·
 [The three jobs](docs/01-layer-0-the-hand.md) ·
-[The sequence](docs/03-the-firing-sequence.md) ·
+[The firing sequence](docs/03-the-firing-sequence.md) ·
 [The freshness rule](docs/04-smart-ttl.md) ·
-[The nine checks](docs/05-the-conformance-gate.md) ·
-**[Fork this](docs/12-fork-this.md)**
+[The nine conformance checks](docs/05-the-conformance-gate.md) ·
+**[Build your own](docs/12-fork-this.md)**
 
 <br clear="right"/>
 
@@ -117,7 +118,7 @@ Every chart here owes a real data table. This is it.
 | [03 Firing sequence](docs/03-the-firing-sequence.md) | [04 Smart TTL](docs/04-smart-ttl.md) | [05 The gate](docs/05-the-conformance-gate.md) |
 | [06 Never assume](docs/06-never-assume.md) | [07 Scope lock](docs/07-scope-lock.md) | [08 Practice firewall](docs/08-regulated-practice-firewall.md) |
 | [09 Delegation](docs/09-delegation-and-the-queue.md) | [10 Authentication](docs/10-authentication-between-agents.md) | [11 Two paths](docs/11-two-paths-to-a-roster.md) |
-| [12 Fork this](docs/12-fork-this.md) | [13 Lessons](docs/13-lessons-from-three-builds.md) | [14 The evidence](docs/14-the-evidence.md) |
+| [12 Build your own](docs/12-fork-this.md) | [13 Lessons](docs/13-lessons-from-three-builds.md) | [14 The evidence](docs/14-the-evidence.md) |
 
 
 ## THE OTHER SEATS

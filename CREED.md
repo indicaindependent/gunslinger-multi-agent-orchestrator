@@ -84,7 +84,7 @@ because it names something the plain engineering term names worse.
 | :--- | :--- | :--- |
 | **ka** — fate, and *ka is a wheel* | The 30-day refresh cycle | "TTL" says a thing expires. *A wheel* says it comes back round, which is the actual behaviour: the same chamber returns for the same maintenance, forever. |
 | **ka-tet** — one made from many | A fleet of orchestrated agents bound to one operator | Names the thing "multi-agent system" fumbles: not a swarm, not a hierarchy, a bound group with shared purpose and separate hands. |
-| **the line of Eld** — descent from the first gunslinger | Every agent forked from this template | A fork is not a copy. It inherits doctrine and carries it forward changed. |
+| **the line of Eld** — descent from the first gunslinger | Every agent built from this template | A fork is not a copy. It inherits doctrine and carries it forward changed. |
 | **Gilead** — the home barony, fallen but remembered | This repository | The template is not the agent. It is where the agents come from. |
 | **the High Speech** — the formal tongue | The machine-readable roster and journal | There is a plain register for humans and a precise one for the gate. Conflating them is how a directory listing gets mistaken for a capability. |
 | **forgotten the face of his father** | A doctrine breach | Not an error. A *lapse of identity* — the agent still functions, still sounds right, and is no longer what it was built to be. That is exactly the failure mode that is hardest to detect from outside. |

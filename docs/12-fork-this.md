@@ -1,4 +1,4 @@
-# FORK THIS
+# BUILD YOUR OWN
 
 Making it yours.
 
@@ -7,8 +7,8 @@ Making it yours.
 ## THE THREE STEPS
 
 ```bash
-git clone https://github.com/<you>/the-gun-slinger.git
-cd the-gun-slinger
+git clone https://github.com/<you>/gunslinger-multi-agent-orchestrator.git
+cd gunslinger-multi-agent-orchestrator
 cp config/agent.conf.example config/agent.conf
 $EDITOR config/agent.conf
 python3 lib/render_build_script.py
